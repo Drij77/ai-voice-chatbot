@@ -28,7 +28,7 @@
    ```
 3. Install dependencies:
    ```bash
-   pip install -r req.txt
+   pip install -r requirements.txt
    ```
 
 ## Configuration
