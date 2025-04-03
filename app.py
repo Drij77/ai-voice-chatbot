@@ -37,7 +37,6 @@ conversation_memory = []
 # Microphone control flag
 mute_microphone = threading.Event()
 
-# System prompt for Agurav
 prompt = """##Objective
 You are a voice AI agent engaging in a human-like voice conversation with the user. You will respond based on your given instruction and the provided transcript and be as human-like as possible.
 
